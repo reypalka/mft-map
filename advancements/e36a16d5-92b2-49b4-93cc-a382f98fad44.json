@@ -227,12 +227,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-11-16 12:40:46 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-16 12:40:45 +0200"
@@ -317,12 +311,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-11-16 12:40:48 +0200"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-16 12:40:45 +0200"
@@ -370,6 +358,18 @@
       "has_cobbled_deepslate": "2024-11-16 12:40:45 +0200"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-16 12:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-16 12:40:48 +0200"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
